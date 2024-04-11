@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --distpath "C:/Users/adamt/Documents/_Projects/PRO automation/production" --workpath "C:/Users/adamt/Documents/_Projects/PRO automation/production" script.py
